@@ -3,6 +3,7 @@
 This folder contains a Postman Collection to test the JSONPlaceholder API.
 
 ## How to use
+Initial commit
 1. Open Postman
 2. Import `PostmanCollection.json`
 3. Run the collection manually or using the Collection Runner
