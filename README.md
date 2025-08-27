@@ -18,7 +18,9 @@ It contains examples of manual test cases, API testing using Postman, and CI/CD 
 ## 📂 Repository Structure
 - [Manual-Testing](./Manual-Testing) → Test cases in Markdown format  
 - [API-Testing](./API-Testing) → Postman collections with automated tests  
-- [.github/workflows](./.github/workflows) → CI pipeline running Newman for API testing  
+- [.github/workflows](./.github/workflows) → CI pipeline running Newman for API testing
+- [Bug-Reports](./Bug-Reports) → Example bug reports written in professional QA format
+
 
 ## ✨ Highlights
 - Manual test case design for login flows  
