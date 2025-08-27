@@ -20,6 +20,7 @@ It contains examples of manual test cases, API testing using Postman, and CI/CD 
 - [API-Testing](./API-Testing) → Postman collections with automated tests  
 - [.github/workflows](./.github/workflows) → CI pipeline running Newman for API testing
 - [Bug-Reports](./Bug-Reports) → Example bug reports written in professional QA format
+- [Test-Plans](./Test-Plans) → Example test plans showing structured QA strategy
 
 
 ## ✨ Highlights
