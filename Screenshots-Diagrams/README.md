@@ -19,4 +19,12 @@ This diagram represents the login validation flow for a web application:
 ### Why visuals matter in QA
 - They improve communication with developers and stakeholders.  
 - They make processes easier to understand at a glance.  
-- They show a professional and detail-oriented approach to testing.  
+- They show a professional and detail-oriented approach to testing.
+
+- ```mermaid
+flowchart TD
+    A[User opens app] --> B[Enter credentials]
+    B -->|Valid| C[Dashboard]
+    B -->|Invalid| D[Error message]
+    D --> B
+
