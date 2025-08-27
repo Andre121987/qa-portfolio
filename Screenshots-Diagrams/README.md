@@ -21,7 +21,7 @@ This diagram represents the login validation flow for a web application:
 - They make processes easier to understand at a glance.  
 - They show a professional and detail-oriented approach to testing.
 
-mermaid
+```mermaid
 flowchart TD
     A[User opens app] --> B[Enter credentials]
     B -->|Valid| C[Dashboard]
