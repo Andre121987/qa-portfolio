@@ -14,6 +14,9 @@ This folder contains a Postman Collection to test the JSONPlaceholder API.
 
 ## Postman Collection with Variables
 
+- Collection: [API-Testing.postman_collection.json](API-Testing/API-Testing.postman_collection.json)
+- Environment: [JSONPlaceholder.postman_environment.json](API-Testing/JSONPlaceholder.postman_environment.json)
+
 
 This exercise shows:
 - Usage of environment variables (`baseUrl`, `postId`)
