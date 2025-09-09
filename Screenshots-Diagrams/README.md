@@ -12,7 +12,7 @@ In this section, I include visual examples that support my test documentation an
 ## 🔄 Test flow diagram
 This diagram represents the login validation flow for a web application:
 
-![Test flow diagram](test-flow-diagram.png)
+![Test flow diagram](Test flow diagram.png)
 
 ---
 
