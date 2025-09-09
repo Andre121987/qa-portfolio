@@ -12,10 +12,11 @@ This folder contains a Postman Collection to test the JSONPlaceholder API.
 - Validate response body structure
 - Assert response time is under 1s
 
+## Postman Collection with Variables
 
-Postman Collection with Variables
-- Collection: [API-Testing.postman_collection.json](API-Testing/API-Testing.postman_collection.json)
-- Environment: [JSONPlaceholder.postman_environment.json]((API-Testing/JSONPlaceholder.postman_environment.json)
+- Collection: [API Testing.postman_collection.json](API-Testing/API%20Testing.postman_collection.json)
+- Environment: [JSONPlaceholder.postman_environment.json](API-Testing/JSONPlaceholder.postman_environment.json)
+
 
 This exercise shows:
 - Usage of environment variables (`baseUrl`, `postId`)
