@@ -11,3 +11,13 @@ This folder contains a Postman Collection to test the JSONPlaceholder API.
 - Verify status codes (200, 404)
 - Validate response body structure
 - Assert response time is under 1s
+
+
+Postman Collection with Variables
+- Collection: [API-Testing.postman_collection.json](Postman-Collections/API-Testing.postman_collection.json)
+- Environment: [JSONPlaceholder.postman_environment.json](Postman-Collections/JSONPlaceholder.postman_environment.json)
+
+This exercise shows:
+- Usage of environment variables (`baseUrl`, `postId`)
+- Automatic variable assignment using `pm.environment.set`
+- Chaining requests (POST → GET with dynamic ID)
